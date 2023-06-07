@@ -1,7 +1,3 @@
-https://replit.com/@emiliomorles/Ideal-body-mass-calcalator-v2?v=1
-
-#code: python 
-
 height = float(input("enter your height in m (expample: 1.83): "))
 weight = float(input("enter your weight in kg (expample: 70): "))
 bmi = (weight / (height ** 2))
